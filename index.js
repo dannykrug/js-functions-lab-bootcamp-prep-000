@@ -1,1 +1,1 @@
-\var happyholidays = 'Happy holidays!'
+var happyholidays = 'Happy holidays!'
